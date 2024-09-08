@@ -42,6 +42,8 @@ pip install pygame
    ```bash
    python toll_collecting_system.py
    ```
+## Screenshot
+![toll collecting](https://github.com/user-attachments/assets/0292effb-2aee-4f6d-8deb-6cbc866f0f56)
 
 ## Project Structure
 
